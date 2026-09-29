@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/Davi-D-Lucca/Estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-D-Lucca&repo=Estudos&theme=tokyonight&hide_border=true" alt="Repositório Estudos"/>
+    <img src="./profile/pin-estudos.svg" alt="Repositório Estudos"/>
   </a>
 </p>
 
@@ -72,8 +72,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Davi-D-Lucca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-D-Lucca&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
