@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Davi D Lucca, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 40, Total de PRs: 14, Total de Issues: 1, Contribuiu para (ano passado): 1</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 40, Total de PRs: 15, Total de Issues: 1, Contribuiu para (ano passado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 227.41943438102567;
+        stroke-dashoffset: 226.7070078178877;
       }
     }
   
@@ -192,7 +192,7 @@
         x="269.01"
         y="12.5"
         data-testid="prs"
-      >14</text>
+      >15</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
